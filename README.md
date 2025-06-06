@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, me chamo Gustavo Dias Alves! 
+## Hello, Devs!!👋
 
-<!--
-**GustavoD29/GustavoD29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – IFSUL 
+💻 Em formação com foco em desenvolvimento backend 
+🚀 Entusiasta da tecnologia, movido por desafios e pela vontade constante de aprender.
 
-Here are some ideas to get you started:
+## Ferramentas e Tecnologias
+<i class="devicon-c-plain colored"></i> <i class="devicon-javascript-plain colored"></i> <i class="devicon-git-plain colored"></i> <i class="devicon-html5-plain colored"></i> <i class="devicon-java-plain-wordmark"></i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens mais usadas
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?gustavod29&layout=compact&langs_count=7&theme=dracula"/>
+</div>          
+
+### 📫 Onde me encontrar:
+- LinkedIn: [Clique aqui](https://linkedin.com/in/gustavodiasalves)
+- E-mail: gustadiasalves2@gmail.com
+
+
+          
