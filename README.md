@@ -1,5 +1,5 @@
-<h1 align="center">Olá, Eu sou o Gustavo! </h1>
-## Hello, Devs!!👋
+<h1 align="center">Olá, Eu sou o Gustavo! 👋 </h1>  
+## Sobre mim:
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas – IFSUL  
 💻 Em formação com foco em desenvolvimento backend  
