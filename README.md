@@ -10,7 +10,7 @@
 
 ## Linguagens mais usadas
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/gustavod29">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?gustavod29&layout=compact&langs_count=7&theme=dracula"/>
 </div>          
 
